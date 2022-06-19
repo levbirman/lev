@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lievb
+- 👋 Hi, I’m Lev Birman
 - 👀 I’m interested in how inanimate matter becomes life-like!
 - 🌱 I’m currently learning stochastic methods, non-equilibrium statistical physics, and Julia!
 - 💞️ I’m looking to collaborate on simulations of complex physical systems that do life-like things!
